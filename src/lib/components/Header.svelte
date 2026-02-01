@@ -1,4 +1,3 @@
-<!-- src/lib/components/Header.svelte -->
 <script>
   let scrolled = $state(false);
 
